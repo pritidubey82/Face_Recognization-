@@ -1,7 +1,9 @@
 #Face Recognition Attendance System
+
 This project implements a face recognition-based attendance system that captures and logs attendance using a webcam. It also sends SMS notifications to designated contacts via Twilio when a recognized individual is detected.
 
 ##Key Components
+
 Libraries Used:
 OpenCV: For video capture and image processing.
 face_recognition: For recognizing faces in images.
