@@ -41,3 +41,6 @@ To run this project, ensure you have the following installed:
 
 ```bash
 pip install opencv-python face_recognition numpy pandas twilio openpyxl
+
+![image](https://github.com/user-attachments/assets/30990d81-8720-4830-a9f0-4cf727c1379d)
+
